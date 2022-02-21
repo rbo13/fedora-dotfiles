@@ -1,0 +1,21 @@
+[2022-02-19 21:00:26.616] [exthost] [info] Extension host with pid 11022 started
+[2022-02-19 21:00:26.616] [exthost] [info] Skipping acquiring lock for /home/bito/.config/Code/User/workspaceStorage/1ef9d8557e5b5bc3abfa49942ce02e82.
+[2022-02-19 21:00:26.655] [exthost] [info] ExtensionService#_doActivateExtension castwide.solargraph, startup: false, activationEvent: 'onLanguage:ruby'
+[2022-02-19 21:00:26.765] [exthost] [info] ExtensionService#_doActivateExtension rebornix.ruby, startup: false, activationEvent: 'onLanguage:ruby'
+[2022-02-19 21:00:26.772] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-19 21:00:26.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-19 21:00:26.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-19 21:00:26.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-19 21:00:26.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-19 21:00:26.937] [exthost] [info] Eager extensions activated
+[2022-02-19 21:00:26.937] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-19 21:00:26.961] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-19 21:00:26.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-19 21:01:45.348] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-19 21:01:45.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-19 21:01:45.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-19 21:05:53.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-02-19 21:05:53.100] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-02-19 21:05:53.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-02-19 22:55:52.872] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-19 22:55:52.883] [exthost] [info] Extension host with pid 11022 exiting with code 0

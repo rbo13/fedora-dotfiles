@@ -1,0 +1,13 @@
+{
+    "current_user": "richard_burk",
+    "mountdir": "/run/user/1000/keybase/kbfs",
+    "mountdirdefault": "/run/user/1000/keybase/kbfs",
+    "users": {
+        "richard_burk": {
+            "device": "bb0470805e0d2f1b57b56b51f2febd18",
+            "id": "55df0ee5d7d2dd0e16669040e4b46919",
+            "name": "richard_burk",
+            "salt": "3cc6d9cfae3a5f9f84020ac8e1c40ee3"
+        }
+    }
+}

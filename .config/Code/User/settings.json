@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.bracketPairColorization.enabled": true
+}

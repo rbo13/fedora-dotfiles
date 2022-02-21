@@ -1,0 +1,10 @@
+[2022-02-19 20:44:56.950] [main] [info] update#setState idle
+[2022-02-19 20:44:56.973] [main] [info] ExtensionHostStarterWorker created
+[2022-02-19 20:44:57.938] [main] [info] Starting extension host with pid 4540 (fork() took 22 ms).
+[2022-02-19 20:44:57.939] [main] [info] ExtensionHostStarterWorker.start() took 23 ms.
+[2022-02-19 20:45:26.951] [main] [info] update#setState checking for updates
+[2022-02-19 20:45:27.016] [main] [info] update#setState idle
+[2022-02-19 20:46:40.083] [main] [info] Extension host with pid 4540 exited with code: 0, signal: null.
+[2022-02-19 20:46:40.642] [main] [info] Starting extension host with pid 5291 (fork() took 4 ms).
+[2022-02-19 20:46:40.642] [main] [info] ExtensionHostStarterWorker.start() took 4 ms.
+[2022-02-19 21:00:11.725] [main] [info] Extension host with pid 5291 exited with code: 0, signal: null.

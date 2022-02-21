@@ -1,0 +1,12 @@
+.gitconfig.local
+
+node_modules
+
+Thumbs.db
+
+# working files
+.vim/viminfo
+.vim/swaps/*
+.vim/undo
+
+.extra

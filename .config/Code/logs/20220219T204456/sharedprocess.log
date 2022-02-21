@@ -1,0 +1,24 @@
+[2022-02-19 20:44:58.703] [sharedprocess] [info] Starting worker process with pid 4698 (type: fileWatcher, window: 1).
+[2022-02-19 20:46:40.079] [sharedprocess] [info] Worker process with pid 4698 terminated normally (type: fileWatcher, window: 1).
+[2022-02-19 20:46:40.649] [sharedprocess] [info] Starting worker process with pid 5292 (type: fileWatcher, window: 1).
+[2022-02-19 20:48:31.523] [sharedprocess] [info] Getting Manifest... rebornix.ruby
+[2022-02-19 20:48:31.527] [sharedprocess] [info] Installing extension: rebornix.ruby
+[2022-02-19 20:48:31.827] [sharedprocess] [info] Getting Manifest... wingrunr21.vscode-ruby
+[2022-02-19 20:48:31.890] [sharedprocess] [info] Installing extension: wingrunr21.vscode-ruby
+[2022-02-19 20:48:33.677] [sharedprocess] [info] Downloaded extension: wingrunr21.vscode-ruby /home/bito/.config/Code/CachedExtensionVSIXs/wingrunr21.vscode-ruby-0.28.0
+[2022-02-19 20:48:33.715] [sharedprocess] [info] Extracted extension to /home/bito/.vscode/extensions/.ecdfb050-a7d0-4d44-a680-a8bccbaced78: wingrunr21.vscode-ruby
+[2022-02-19 20:48:33.719] [sharedprocess] [info] Renamed to /home/bito/.vscode/extensions/wingrunr21.vscode-ruby-0.28.0
+[2022-02-19 20:48:33.720] [sharedprocess] [info] Extracting completed. wingrunr21.vscode-ruby
+[2022-02-19 20:48:35.577] [sharedprocess] [info] Downloaded extension: rebornix.ruby /home/bito/.config/Code/CachedExtensionVSIXs/rebornix.ruby-0.28.1
+[2022-02-19 20:48:35.678] [sharedprocess] [info] Extracted extension to /home/bito/.vscode/extensions/.eab5aec8-1318-48b2-a740-6335bc1f8399: rebornix.ruby
+[2022-02-19 20:48:35.682] [sharedprocess] [info] Renamed to /home/bito/.vscode/extensions/rebornix.ruby-0.28.1
+[2022-02-19 20:48:35.682] [sharedprocess] [info] Extracting completed. rebornix.ruby
+[2022-02-19 20:48:35.683] [sharedprocess] [info] Extension installed successfully: wingrunr21.vscode-ruby
+[2022-02-19 20:48:35.683] [sharedprocess] [info] Extension installed successfully: rebornix.ruby
+[2022-02-19 20:59:31.721] [sharedprocess] [info] Getting Manifest... castwide.solargraph
+[2022-02-19 20:59:31.724] [sharedprocess] [info] Installing extension: castwide.solargraph
+[2022-02-19 20:59:34.133] [sharedprocess] [info] Downloaded extension: castwide.solargraph /home/bito/.config/Code/CachedExtensionVSIXs/castwide.solargraph-0.23.0
+[2022-02-19 20:59:35.232] [sharedprocess] [info] Extracted extension to /home/bito/.vscode/extensions/.ea52b347-ab9c-4330-8f1c-ed5ff3a3e206: castwide.solargraph
+[2022-02-19 20:59:35.240] [sharedprocess] [info] Renamed to /home/bito/.vscode/extensions/castwide.solargraph-0.23.0
+[2022-02-19 20:59:35.241] [sharedprocess] [info] Extracting completed. castwide.solargraph
+[2022-02-19 20:59:35.243] [sharedprocess] [info] Extension installed successfully: castwide.solargraph

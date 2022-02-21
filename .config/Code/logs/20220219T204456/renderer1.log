@@ -1,0 +1,20 @@
+[2022-02-19 20:44:58.093] [renderer1] [info] IExtensionHostStarter.start() took 177 ms.
+[2022-02-19 20:44:58.171] [renderer1] [error] [Extension Host] (node:4540) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-19 20:46:40.647] [renderer1] [info] IExtensionHostStarter.start() took 11 ms.
+[2022-02-19 20:46:40.826] [renderer1] [error] [Extension Host] (node:5291) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-19 20:59:26.858] [renderer1] [error] Cannot read property 'toLowerCase' of undefined: TypeError: Cannot read property 'toLowerCase' of undefined
+    at i.getLanguageIdByLanguageName (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:102227)
+    at c.getLanguageIdByLanguageName (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:103973)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1157:1193
+[2022-02-19 20:59:31.726] [renderer1] [error] Cannot read property 'toLowerCase' of undefined: TypeError: Cannot read property 'toLowerCase' of undefined
+    at i.getLanguageIdByLanguageName (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:102227)
+    at c.getLanguageIdByLanguageName (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:103973)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1157:1193
+[2022-02-19 20:59:36.641] [renderer1] [error] bash: solargraph: command not found
+
+[2022-02-19 20:59:49.433] [renderer1] [error] Cannot read property 'toLowerCase' of undefined: TypeError: Cannot read property 'toLowerCase' of undefined
+    at i.getLanguageIdByLanguageName (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:102227)
+    at c.getLanguageIdByLanguageName (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:103973)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1157:1193
